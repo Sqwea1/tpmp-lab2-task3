@@ -42,6 +42,9 @@
 
 **Фактические результаты:** ✅ Совпадают
 
+<img width="586" height="248" alt="image" src="https://github.com/user-attachments/assets/64d11b12-fba0-4289-b8e8-c8be84ced340" />
+
+
 **Тест пройден:** Да
 
 ---
