@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -Iinclude
+CFLAGS = -Wall -Wextra -Isrc
 TARGET = bin/student_app
 SRCS = src/main.c src/student.c
 OBJS = obj/main.o obj/student.o
